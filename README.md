@@ -86,3 +86,4 @@ Electronic check payment users have the highest churn rate.
 
 The analysis identifies clear risk groups and factors responsible for high churn. These insights can help the business optimize retention strategies, improve service offerings, and reduce customer turnover.
 
+**Project Links**
